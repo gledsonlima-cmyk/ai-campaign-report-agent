@@ -1,17 +1,17 @@
 store_id,store_name,city,state,group,date,sku,category,units_sold,revenue_brl
-1001,Loja Centro,Maringa,PR,pilot,2026-01-05,SKU_SNACK_001,Snacks,120,840.00
-1001,Loja Centro,Maringa,PR,pilot,2026-01-12,SKU_SNACK_001,Snacks,145,1015.00
-1001,Loja Centro,Maringa,PR,pilot,2025-01-06,SKU_SNACK_001,Snacks,98,686.00
-1001,Loja Centro,Maringa,PR,pilot,2025-01-13,SKU_SNACK_001,Snacks,101,707.00
-1002,Loja Zona Sul,Londrina,PR,pilot,2026-01-05,SKU_SNACK_001,Snacks,132,924.00
-1002,Loja Zona Sul,Londrina,PR,pilot,2026-01-12,SKU_SNACK_001,Snacks,150,1050.00
-1002,Loja Zona Sul,Londrina,PR,pilot,2025-01-06,SKU_SNACK_001,Snacks,110,770.00
-1002,Loja Zona Sul,Londrina,PR,pilot,2025-01-13,SKU_SNACK_001,Snacks,105,735.00
-2001,Loja Norte,Cascavel,PR,control,2026-01-05,SKU_SNACK_001,Snacks,90,630.00
-2001,Loja Norte,Cascavel,PR,control,2026-01-12,SKU_SNACK_001,Snacks,95,665.00
-2001,Loja Norte,Cascavel,PR,control,2025-01-06,SKU_SNACK_001,Snacks,88,616.00
-2001,Loja Norte,Cascavel,PR,control,2025-01-13,SKU_SNACK_001,Snacks,92,644.00
-2002,Loja Leste,Ponta Grossa,PR,control,2026-01-05,SKU_SNACK_001,Snacks,80,560.00
-2002,Loja Leste,Ponta Grossa,PR,control,2026-01-12,SKU_SNACK_001,Snacks,85,595.00
-2002,Loja Leste,Ponta Grossa,PR,control,2025-01-06,SKU_SNACK_001,Snacks,82,574.00
-2002,Loja Leste,Ponta Grossa,PR,control,2025-01-13,SKU_SNACK_001,Snacks,79,553.00
+1001,Loja X,Maringa,PR,pilot,2026-01-05,SKU_SNACK_001,Snacks,120,840.00
+1001,Loja X,Maringa,PR,pilot,2026-01-12,SKU_SNACK_001,Snacks,145,1015.00
+1001,Loja X,Maringa,PR,pilot,2025-01-06,SKU_SNACK_001,Snacks,98,686.00
+1001,Loja X,Maringa,PR,pilot,2025-01-13,SKU_SNACK_001,Snacks,101,707.00
+1002,Loja Y,Londrina,PR,pilot,2026-01-05,SKU_SNACK_001,Snacks,132,924.00
+1002,Loja Y,Londrina,PR,pilot,2026-01-12,SKU_SNACK_001,Snacks,150,1050.00
+1002,Loja Y,Londrina,PR,pilot,2025-01-06,SKU_SNACK_001,Snacks,110,770.00
+1002,Loja Y,Londrina,PR,pilot,2025-01-13,SKU_SNACK_001,Snacks,105,735.00
+2001,Loja W,Cascavel,PR,control,2026-01-05,SKU_SNACK_001,Snacks,90,630.00
+2001,Loja W,Cascavel,PR,control,2026-01-12,SKU_SNACK_001,Snacks,95,665.00
+2001,Loja W,Cascavel,PR,control,2025-01-06,SKU_SNACK_001,Snacks,88,616.00
+2001,Loja W,Cascavel,PR,control,2025-01-13,SKU_SNACK_001,Snacks,92,644.00
+2002,Loja H,Ponta Grossa,PR,control,2026-01-05,SKU_SNACK_001,Snacks,80,560.00
+2002,Loja H,Ponta Grossa,PR,control,2026-01-12,SKU_SNACK_001,Snacks,85,595.00
+2002,Loja H,Ponta Grossa,PR,control,2025-01-06,SKU_SNACK_001,Snacks,82,574.00
+2002,Loja H,Ponta Grossa,PR,control,2025-01-13,SKU_SNACK_001,Snacks,79,553.00
